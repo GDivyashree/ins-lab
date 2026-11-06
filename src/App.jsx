@@ -99,9 +99,6 @@ function MainLayout({ onCopyPrograms }) {
               Instant Clipboard
             </span>
           </div>
-          <span style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>
-            Choose between New reduced code (35%–56% shorter), College manual code, or both versions.
-          </span>
         </div>
 
         <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
